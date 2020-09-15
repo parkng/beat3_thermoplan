@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/beat3_thermoplan.iml" filepath="$PROJECT_DIR$/beat3_thermoplan.iml" />
+      <module fileurl="file://F:/02.SRC/thermoplan/thermoplan.iml" filepath="F:/02.SRC/thermoplan/thermoplan.iml" />
     </modules>
   </component>
 </project>
